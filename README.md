@@ -31,7 +31,9 @@ This script requires the following packages to be installed:
 
 ## Credits 
 Created by IR-MB.
-
+ChatGPT
 
 ![mycode](https://s2.uupload.ir/files/screenshot_20230313_004422_7jsq.png)
 
+
+**Thanks to chatgpt AI For cooperation in the project**

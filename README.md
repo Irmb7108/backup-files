@@ -39,11 +39,4 @@ git
 Credits
 Created by IR-MB.
 
-Backup Image
-
-To add an image to your README file, you can use an image hosting service like Imgur or Cloudinary, and obtain a public link for the image. Then, you can use Markdown syntax to include the image in your file:
-
-Copy
-Insert
-New
 ![mycode](https://s2.uupload.ir/files/screenshot_20230313_004422_7jsq.png)

@@ -30,11 +30,11 @@ This script requires the following packages to be installed:
 - `git`
 
 ## Credits 
-Created by IR-MB.
-ChatGPT
+Created by **IR-MB.**
+
+**Contributions from ChatGPT AI during the project are greatly appreciated!**
 
 ![mycode](https://s2.uupload.ir/files/screenshot_20230313_004422_7jsq.png)
 
 
 
-**Thanks to chat gpt AI For cooperation in the project**

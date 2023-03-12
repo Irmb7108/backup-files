@@ -11,10 +11,11 @@ Before running this script, make sure that you have the following packages insta
 In case any of these packages is missing, the script will prompt you to install them.
 
 ## Usage 
-1. Clone the repository to your desired directory using git: `git clone https://github.com/{username}/{repository}.git`
+1. Clone the repository to your desired directory using git: `git clone https://github.com/Irmb7108/backup-file`
 2. Open the cloned repository directory: `cd {repository}`
-3. Run the script: `./bg.sh`
-4. Follow the instructions that appear on the screen.
+3. run `chmod +x backup.sh`
+4. Run the script: `./backup.sh`
+5. Follow the instructions that appear on the screen.
 
 ## Features 
 - If a necessary package is not found, the script asks if you would like to install it.

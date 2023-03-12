@@ -12,7 +12,7 @@ In case any of these packages is missing, the script will prompt you to install 
 
 ## Usage 
 1. Clone the repository to your desired directory using git: `git clone https://github.com/Irmb7108/backup-file`
-2. Open the cloned repository directory: `cd {repository}`
+2. Open the cloned repository directory: `cd backup-file`
 3. run `chmod +x backup.sh`
 4. Run the script: `./backup.sh`
 5. Follow the instructions that appear on the screen.
@@ -36,4 +36,5 @@ ChatGPT
 ![mycode](https://s2.uupload.ir/files/screenshot_20230313_004422_7jsq.png)
 
 
-**Thanks to chatgpt AI For cooperation in the project**
+
+**Thanks to chat gpt AI For cooperation in the project**

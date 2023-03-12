@@ -46,4 +46,4 @@ To add an image to your README file, you can use an image hosting service like I
 Copy
 Insert
 New
-![alt text](https://s2.uupload.ir/files/screenshot_20230313_004422_7jsq.png)
+![mycode](https://s2.uupload.ir/files/screenshot_20230313_004422_7jsq.png)

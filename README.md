@@ -26,8 +26,11 @@ In case any of these packages is missing, the script will prompt you to install 
 
 ## Dependencies 
 This script requires the following packages to be installed:
-- `lolcat`
 - `git`
+- `lolcat`
+- `figlet`
+
+
 
 ## Credits 
 Created by **IR-MB.**

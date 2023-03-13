@@ -43,7 +43,19 @@ echo ""
 # tput cup $((rows/2)) $(( (cols-${#text})/2 ))
 # echo "$text"
 # tput sgr0 # reset font color
-
+read -p "Do you want to backup your files? [y/n]:" backup_choice
+case "$backup_choice" in 
+    y|Y ) 
+        ;;
+    n|N ) 
+        echo "Backup process aborted by user."
+        exit 0
+        ;;
+    * )     
+        echo "Invalid input, backup process will be terminated."
+        exit 1
+        ;;
+esac
 function spinner {
   local pid=$!
   local delay=0.1

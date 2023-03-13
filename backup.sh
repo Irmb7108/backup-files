@@ -20,6 +20,7 @@ check_dep() {
 
 # Check for 'figlet' package
 check_dep "figlet"
+check_dep "lolcat"
 
 echo ""
 echo ""
@@ -62,7 +63,7 @@ function spinner {
 
 # create backup directory
 #backup_dir="backup"
-backup_dir="backup_$(date "+%H%M%S")"
+backup_dir="backup_$(date "+%H.%M.%S")"
 if [ ! -d "$backup_dir" ]; then
   mkdir "$backup_dir"
 fi
@@ -120,4 +121,3 @@ echo " "
 
 text="Created By IR-MB!"
 figlet -cf term "$text" |lolcat
-

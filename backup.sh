@@ -18,7 +18,8 @@ check_dep() {
     fi
 }
 
-# Check for 'figlet' package
+# Check for 'figlet' 'rsync' 'lolcat' package
+check_dep "rsync"
 check_dep "figlet"
 check_dep "lolcat"
 
